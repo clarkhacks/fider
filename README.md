@@ -11,7 +11,6 @@
   </div>
   <div align="center">Give your customers a voice and let them tell you what they need. Spend less time guessing and more time building the right product.</div>
 </p>
-
 <div align="center">
   <h3>
     <a href="https://feedback.fider.io/">
